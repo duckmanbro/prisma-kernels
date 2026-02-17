@@ -30,6 +30,6 @@
    - it's easier to flash
    - i got to personalize as i want.
 
-- **⚠️  READ THIS  ⚠️   *
+- **⚠️  READ THIS  ⚠️**
   🚫 DONT PATCH KPM (if you are flashing through KSU MANAGER)
   it will cause bootloop.
