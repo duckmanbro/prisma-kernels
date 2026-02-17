@@ -31,4 +31,12 @@
    - i got to personalize as i want.
 
 - **⚠️  READ THIS  ⚠️**
+```
   🚫 DONT PATCH KPM (if you are flashing through KSU MANAGER)
+```
+
+- **Use this Guide to setup (lxc)**
+  [LXC-GUIDE](https://github.com/duckmanbro/Termux-LXC-Guide)
+
+- **Use this one to setup docker**
+  [DOCKER-GUIDE](https://ivonblog.com/en-us/posts/sony-xperia-5-ii-docker-kernel)
