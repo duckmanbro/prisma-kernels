@@ -32,4 +32,3 @@
 
 - **⚠️  READ THIS  ⚠️**
   🚫 DONT PATCH KPM (if you are flashing through KSU MANAGER)
-  it will cause bootloop.
